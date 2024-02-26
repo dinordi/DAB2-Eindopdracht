@@ -1,0 +1,74 @@
+IDCoureur,strName,intRacenummer
+1,Lewis Hamilton,44
+2,Nico Rosberg,6
+3,Fernando Alonso,14
+4,Heikki Kovalainen,\N
+5,Kazuki Nakajima,\N
+6,Robert Kubica,88
+7,Timo Glock,\N
+8,Nelson Piquet Jr.,\N
+9,Felipe Massa,19
+10,Adrian Sutil,99
+11,Sebastian Vettel,5
+12,Scott Speed,\N
+13,Sakon Yamamoto,\N
+14,Christian Klien,\N
+15,Robert Doornbos,\N
+16,Gianmaria Bruni,\N
+17,Zsolt Baumgartner,\N
+18,Sébastien Buemi,\N
+19,Jaime Alguersuari,\N
+20,Romain Grosjean,8
+21,Kamui Kobayashi,10
+22,Pierre Gasly,10
+23,Nico Hülkenberg,27
+24,Vitaly Petrov,\N
+25,Lucas di Grassi,\N
+26,Bruno Senna,\N
+27,Karun Chandhok,\N
+28,Pastor Maldonado,13
+29,Paul di Resta,40
+30,Sergio Pérez,11
+31,Jérôme d'Ambrosio,\N
+32,Daniel Ricciardo,3
+33,Jean-Éric Vergne,25
+34,Charles Pic,\N
+35,Max Chilton,4
+36,Esteban Gutiérrez,21
+37,Valtteri Bottas,77
+38,Giedo van der Garde,\N
+39,Jules Bianchi,17
+40,Kevin Magnussen,20
+41,Daniil Kvyat,26
+42,André Lotterer,45
+43,Marcus Ericsson,9
+44,Will Stevens,28
+45,Max Verstappen,33
+46,Felipe Nasr,12
+47,Carlos Sainz,55
+48,Roberto Merhi,98
+49,Alexander Rossi,53
+50,Jolyon Palmer,30
+51,Pascal Wehrlein,94
+52,Rio Haryanto,88
+53,Stoffel Vandoorne,2
+54,Esteban Ocon,31
+55,Lance Stroll,18
+56,Antonio Giovinazzi,99
+57,Brendon Hartley,28
+58,Charles Leclerc,16
+59,Sergey Sirotkin,35
+60,Lando Norris,4
+61,George Russell,63
+62,Alexander Albon,23
+63,Nicholas Latifi,6
+64,Pietro Fittipaldi,51
+65,Jack Aitken,89
+66,Yuki Tsunoda,22
+67,Nikita Mazepin,9
+68,Mick Schumacher,47
+69,Guanyu Zhou,24
+70,Nyck de Vries,21
+71,Oscar Piastri,81
+72,Logan Sargeant,2
+73,Liam Lawson,40
